@@ -26,7 +26,7 @@ bash ./Lesson7CodeSessions_start-deployment-scripts.sh Start-Deployment-On-A-Spe
 bash ./Lesson7CodeSessions_start-deployment-scripts.sh Start-Deployment-On-Real-Ethereum-Testnet
 bash ./Lesson7CodeSessions_start-deployment-scripts.sh Start-Hardhat-Test
 
-If you're running this for the first time run the following before running Start-Deployment-On-Local-Hardhat-Node.
+If you're running this for the first time run the following before running any of these scripts.
 
 bash ./Lesson7CodeSessions_start-deployment-scripts.sh Install-Tools-On-MacOS-Or-Linux
 
