@@ -135,7 +135,7 @@ usage_explanation() {
   echo "bash ./Lesson7CodeSessions_start-deployment-scripts.sh Start-Deployment-On-Real-Ethereum-Testnet"
   echo "bash ./Lesson7CodeSessions_start-deployment-scripts.sh Start-Hardhat-Test"
   echo
-  echo "If you're running this for the first time run the following before running Start-Deployment-On-Local-Hardhat-Node."
+  echo "If you're running this for the first time run the following before running any of these scripts."
   echo
   echo "bash ./Lesson7CodeSessions_start-deployment-scripts.sh Install-Tools-On-MacOS-Or-Linux"
   echo
