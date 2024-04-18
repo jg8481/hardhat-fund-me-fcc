@@ -104,7 +104,7 @@ fi
 
 if [ "$1" == "Start-Hardhat-Test" ]; then
   echo
-  echo "------------------------------------[[[[ Start-Datadriven-Hardhat-Test ]]]]------------------------------------"
+  echo "------------------------------------[[[[ Start-Hardhat-Test ]]]]------------------------------------"
   echo
   echo "This command will run the Start-Hardhat-Test script. This run started on $TIMESTAMP."
   echo
